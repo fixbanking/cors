@@ -3,8 +3,8 @@ package main
 import (
 	"time"
 
-	"github.com/gin-contrib/cors"
-	"github.com/gin-gonic/gin"
+	"github.com/fixbanking/cors"
+	"github.com/fixbanking/gin"
 )
 
 func main() {
