@@ -1,6 +1,6 @@
 # CORS gin's middleware
 
-[![Build Status](https://travis-ci.org/fixbanking/cors.svg)](https://travis-ci.org/gin-contrib/cors)
+[![Build Status](https://travis-ci.org/gin-contrib/cors.svg)](https://travis-ci.org/gin-contrib/cors)
 [![codecov](https://codecov.io/gh/gin-contrib/cors/branch/master/graph/badge.svg)](https://codecov.io/gh/gin-contrib/cors)
 [![Go Report Card](https://goreportcard.com/badge/github.com/fixbanking/cors)](https://goreportcard.com/report/github.com/fixbanking/cors)
 [![GoDoc](https://godoc.org/github.com/fixbanking/cors?status.svg)](https://godoc.org/github.com/fixbanking/cors)
@@ -15,13 +15,13 @@ Gin middleware/handler to enable CORS support.
 Download and install it:
 
 ```sh
-$ go get github.com/gin-contrib/cors
+$ go get github.com/fixbanking/cors
 ```
 
 Import it in your code:
 
 ```go
-import "github.com/gin-contrib/cors"
+import "github.com/fixbanking/cors"
 ```
 
 ### Canonical example:
